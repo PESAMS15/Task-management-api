@@ -1,0 +1,234 @@
+{
+	"knownSymbols": {
+		"AuthModule": [
+			{
+				"name": "AuthModule",
+				"path": "c:\\Users\\PESAMS\\Desktop\\Nest tutorail\\nestjs-task-management\\src\\auth\\auth.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Module": [
+			{
+				"name": "Module",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"TypeOrmModule": [
+			{
+				"name": "TypeOrmModule",
+				"module": "@nestjs/typeorm",
+				"isDefault": false
+			}
+		],
+		"JwtModule": [
+			{
+				"name": "JwtModule",
+				"module": "@nestjs/jwt",
+				"isDefault": false
+			}
+		],
+		"PassportModule": [
+			{
+				"name": "PassportModule",
+				"module": "@nestjs/passport",
+				"isDefault": false
+			}
+		],
+		"TypeOrmModuleOptions": [
+			{
+				"name": "TypeOrmModuleOptions",
+				"module": "@nestjs/typeorm",
+				"isDefault": false
+			}
+		],
+		"MongoRepository": [
+			{
+				"name": "MongoRepository",
+				"module": "typeorm",
+				"isDefault": false
+			}
+		],
+		"Repository": [
+			{
+				"name": "Repository",
+				"module": "typeorm",
+				"isDefault": false
+			}
+		],
+		"BaseEntity": [
+			{
+				"name": "BaseEntity",
+				"module": "typeorm",
+				"isDefault": false
+			}
+		],
+		"PipeTransform": [
+			{
+				"name": "PipeTransform",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"ConflictException": [
+			{
+				"name": "ConflictException",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"Injectable": [
+			{
+				"name": "Injectable",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"InternalServerErrorException": [
+			{
+				"name": "InternalServerErrorException",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"UnauthorizedException": [
+			{
+				"name": "UnauthorizedException",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"InjectRepository": [
+			{
+				"name": "InjectRepository",
+				"module": "@nestjs/typeorm",
+				"isDefault": false
+			}
+		],
+		"bcrypt": [
+			{
+				"name": "bcrypt",
+				"module": "bcrypt",
+				"isDefault": true,
+				"asDefinition": "* as bcrypt"
+			}
+		],
+		"JwtService": [
+			{
+				"name": "JwtService",
+				"module": "@nestjs/jwt",
+				"isDefault": false
+			}
+		],
+		"Body": [
+			{
+				"name": "Body",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"Controller": [
+			{
+				"name": "Controller",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"Post": [
+			{
+				"name": "Post",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"ValidationPipe": [
+			{
+				"name": "ValidationPipe",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"AuthService": [
+			{
+				"name": "AuthService",
+				"path": "c:\\Users\\PESAMS\\Desktop\\Nest tutorail\\nestjs-task-management\\src\\auth\\auth.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"PassportStrategy": [
+			{
+				"name": "PassportStrategy",
+				"module": "@nestjs/passport",
+				"isDefault": false
+			}
+		],
+		"Strategy": [
+			{
+				"name": "Strategy",
+				"module": "passport-jwt",
+				"isDefault": false
+			}
+		],
+		"ExtractJwt": [
+			{
+				"name": "ExtractJwt",
+				"module": "passport-jwt",
+				"isDefault": false
+			}
+		],
+		"jwtStrategy": [
+			{
+				"name": "jwtStrategy",
+				"path": "c:\\Users\\PESAMS\\Desktop\\Nest tutorail\\nestjs-task-management\\src\\auth\\jwt.strategy.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"declare": [
+			{
+				"name": "declare",
+				"path": "c:\\Users\\PESAMS\\Desktop\\Nest tutorail\\nestjs-task-management\\dist\\app.module.d.ts",
+				"isDefault": false
+			}
+		],
+		"AuthController": [
+			{
+				"name": "AuthController",
+				"path": "c:\\Users\\PESAMS\\Desktop\\Nest tutorail\\nestjs-task-management\\src\\auth\\auth.controller.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"UseGuards": [
+			{
+				"name": "UseGuards",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"Req": [
+			{
+				"name": "Req",
+				"module": "@nestjs/common",
+				"isDefault": false
+			}
+		],
+		"AuthGuard": [
+			{
+				"name": "AuthGuard",
+				"module": "@nestjs/passport",
+				"isDefault": false
+			}
+		],
+		"JwtPayload": [
+			{
+				"name": "JwtPayload",
+				"path": "c:\\Users\\PESAMS\\Desktop\\Nest tutorail\\nestjs-task-management\\dist\\auth\\jwt-payload-interface.d.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		]
+	}
+}
